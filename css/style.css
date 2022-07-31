@@ -358,9 +358,11 @@ footer{
    body{
        margin:0;
        padding:0;
-       width:100%;
+       width:160%;
    }
- 
+    .boxe-title{
+    font-size:30px;
+    }
    header{
        padding-bottom:20px;
    }
